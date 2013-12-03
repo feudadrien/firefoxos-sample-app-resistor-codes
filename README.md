@@ -1,4 +1,6 @@
-firefoxos-sample-app-resistor-codes
-===================================
+bootplate
+=========
 
-A sample app for Firefox OS to calculate resistor values for 4-band resistor color codes
+Application template for packaged Enyo
+
+Refer to the [Wiki](https://github.com/enyojs/enyo/wiki/Bootplate) for how to get started.
